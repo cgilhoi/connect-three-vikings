@@ -139,6 +139,8 @@ public class MainActivity extends AppCompatActivity {
             ((ImageView) gridLayout.getChildAt(i)).setImageResource(0);
         }
 
+        //changes
+
     }
 
     @Override
